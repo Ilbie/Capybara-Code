@@ -21,11 +21,7 @@ The project aims to build a fast, transparent, and extensible coding harness ins
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/capybara-code.git
-cd capybara-code
-
-bun install
-bun run build
+none
 ````
 
 
