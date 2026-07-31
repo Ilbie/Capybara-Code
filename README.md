@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Capybara Code Logo" width="200"/>
+  <img src="logo.png" alt="Capybara Code Logo" width="600"/>
 </p>
 
 <h1 align="center">Capybara Code (`capy`)</h1>
