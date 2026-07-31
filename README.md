@@ -5,7 +5,7 @@
 <h1 align="center">Capybara Code (`capy`)</h1>
 
 <p align="center">
-  <b>An experimental, high-performance AI coding agent & harness for GPT models.</b>
+  <b>An experimental, high-performance AI coding agent & harness optimized for GPT models.</b>
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ## 💡 Overview
 
-**Capybara Code** is an experimental open-source AI coding agent designed to explore the frontiers of AI-assisted software engineering. Inspired by tools such as Codex and OpenCode, it aims to build a fast, transparent, and extensible coding harness around GPT models.
+**Capybara Code** is an open-source AI coding agent designed to build the **most optimal harness and toolset specifically engineered for GPT models**. 
 
-While model capability is essential, Capybara Code investigates how much performance, reliability, and precision can be gained through an improved agent harness—combining a rich Terminal UI, an isolated Rust execution sidecar, transactional file mutations, and multi-agent workflows.
+While base model capabilities are essential, Capybara Code investigates how much performance, reliability, and precision can be maximized through harness engineering—combining a rich Terminal UI, an isolated Rust execution sidecar, transactional file mutations, and multi-agent workflows.
 
 ---
 
@@ -52,33 +52,28 @@ While model capability is essential, Capybara Code investigates how much perform
 - **[Bun](https://bun.sh/)** (>= 1.3.0)
 - **[Rust](https://www.rust-lang.org/)** (>= 1.85 / Stable)
 
-### Expected Setup Workflow
-
-```bash
-# (Coming Soon) Clone and build locally once source is published
-git clone https://github.com/capybara-code/capybara-code.git
-cd capybara-code
-
-bun install
-cargo build -p cbc-runtime
-bun run capy
-```
-
 ---
 
 ## 🎯 Project Goals
 
-Capybara Code is built to explore how much performance can be gained through a better AI coding harness—not only through stronger models.
+Capybara Code was created to explore a single premise: **How far can we push AI agent performance through harness and tool optimization rather than relying solely on base model updates?**
 
-The long-term goal is to build a state-of-the-art coding agent with strong planning, tool use, context management, verification, and multi-agent workflows.
+Key Objectives:
+- ⚡ **GPT-Optimized Harness & Tools:** Build the most seamless, high-precision toolset and runtime environment tailored specifically to extract maximum performance from GPT models.
+- 🚀 **Outperforming Industry Leaders:** Surpass the agentic coding performance, accuracy, and task-completion rates of state-of-the-art tools like **Claude Code** and **OpenCode**.
+- 🧠 **Advanced Agent Workflows:** Push the boundaries of automated coding through robust planning, multi-agent orchestration, atomic verification, and intelligent context management.
 
 ---
 
 ## 🤝 Contributing & Community
 
-Issues, ideas, and feedback are welcome! 
+We warmly welcome all forms of community involvement! 
 
-Star or watch this repository to receive updates when the initial source code and developer preview are officially released.
+- 💡 **Feature Ideas & Suggestions:** Have a thought on improving our harness design or tools? Share it with us!
+- 🐛 **Bug Reports & Issues:** Found a problem or edge case? Let us know so we can fix it.
+- 🔀 **Pull Requests & Feedback:** Contributions of any size—from docs to code—are greatly appreciated.
+
+★ **Star or watch this repository** to receive updates when the initial source code and developer preview are officially released!
 
 ---
 
